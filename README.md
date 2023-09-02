@@ -1,4 +1,7 @@
 # E-commerce Scraper
+## Disclamer
+This is just for educational and research purpose and not aimed to make any Financial gains from this.
+
 
 E-commerce Scraper is a Python-based web scraping tool that utilizes Selenium to extract product information from various e-commerce websites. It can retrieve product names, prices, quantities, and links, making it a valuable resource for data collection and analysis. You can use this tool to compare prices for specific products across different e-commerce websites.
 
