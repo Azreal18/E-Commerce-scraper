@@ -9,11 +9,6 @@ E-commerce Scraper is a Python-based web scraping tool that utilizes Selenium to
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-##- [Usage](#usage)
-##- [Analyzing Data](#analyzing-data)
-##- [Contributing](#contributing)
-##- [License](#license)
-##- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
