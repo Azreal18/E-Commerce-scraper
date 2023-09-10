@@ -42,4 +42,4 @@ Before using E-commerce Scraper, ensure you have the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Azreal18/e-commerce-scraper.gi
+   git clone https://github.com/Azreal18/e-commerce-scraper.git
